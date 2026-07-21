@@ -36,11 +36,25 @@ Je partage ici mes projets, mes apprentissages et mon évolution en tant que dé
 
 ## 🌐 Me retrouver
 
-- 💻 GitHub : https://github.com/Tahina0803
-- 📍 Localisation : Madagascar
-- 📧 Email : rak.tahina02@gmail.com
-- 💼 LinkedIn : www.linkedin.com/in/tahina-rakotoarimalala-7944a2259
-- 🌐 Portfolio : En cours de développement
+<p align="center">
+  <a href="https://github.com/Tahina0803">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="mailto:rak.tahina02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/tahina-rakotoarimalala-7944a2259">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+## 🚀 Currently Working On
+
+- 🌍 Madagascar Nomad – Premium Tourism Platform
+- 🛒 Vanilla Website – E-commerce Platform
+- 💼 DEXA Company – Software & Web Solutions
 
 ## 🚀 Technologies
 
@@ -58,7 +72,6 @@ Je partage ici mes projets, mes apprentissages et mon évolution en tant que dé
 
 - Node.js
 - Express.js
-- Prisma ORM
 - MySQL
 
 ### Outils
@@ -66,8 +79,6 @@ Je partage ici mes projets, mes apprentissages et mon évolution en tant que dé
 - Git
 - GitHub
 - VS Code
-- Figma
-- Adobe Photoshop
 
 ---
 
