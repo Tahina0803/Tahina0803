@@ -34,6 +34,14 @@ Je partage ici mes projets, mes apprentissages et mon évolution en tant que dé
 
 ---
 
+## 🌐 Me retrouver
+
+- 💻 GitHub : https://github.com/Tahina0803
+- 📍 Localisation : Madagascar
+- 📧 Email : rak.tahina02@gmail.com
+- 💼 LinkedIn : www.linkedin.com/in/tahina-rakotoarimalala-7944a2259
+- 🌐 Portfolio : En cours de développement
+
 ## 🚀 Technologies
 
 ### Frontend
